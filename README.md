@@ -7,20 +7,23 @@
 
 <h2> Installation Guide </h2>
 <p> Download this repository or clone using git </p>
-```bash
+<code>
 git clone https://github.com/AnangSyfr/php-start-laravel.git
-```
+</code>
+<br>
 
 <p> then, change the directory name </p>
 <p> Change dir to your directory </p>
-```bash
+<code>
 composer update
-```
+</code>
+<br>
 
 <p> Install npm and compile assets </p>
-```
-    bashnpm install && npm run dev
-```
+<code>
+bashnpm install && npm run dev
+</code>
+<br>
 
 <p> Setup your environment </p>
 <p> Run the migration and seeder </p>
