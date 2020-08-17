@@ -1,33 +1,33 @@
-#Includes
+# Includes
  - Multilevel Authentification <br>
  - Datatables <br>
  - Admin LTE <br>
  - Carbon <br>
  - SweetAlert <br>
 
-#Installation Guide </h2>
-<p> Download this repository or clone using git </p>
+# Installation Guide
+###### Download this repository or clone using git
 
 ```
 git clone https://github.com/AnangSyfr/php-start-laravel.git
 ```
 
 
-<p> then, change the directory name </p>
-<p> Change dir to your directory </p>
+###### then, change the directory name
+###### Change dir to your directory
 
 ```
 composer update
 ```
 
 
-<p> Install npm and compile assets </p>
+###### Install npm and compiling assets 
 
 ```
 npm install && npm run dev
 ```
 
 
-<p> Setup your environment </p>
-<p> Run the migration and seeder </p>
-<p> Start your journey :) </p>
+###### Setup your environment 
+###### Run the migration and seeder 
+###### Start your journey :) 
