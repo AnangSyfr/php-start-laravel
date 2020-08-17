@@ -14,7 +14,7 @@ git clone https://github.com/AnangSyfr/php-start-laravel.git
 
 
 ###### then, change the directory name
-###### Change dir to your directory
+###### Change dir to your directory, then update composer
 
 ```
 composer update
