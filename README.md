@@ -21,7 +21,7 @@ composer update
 
 <p> Install npm and compile assets </p>
 <code>
-bashnpm install && npm run dev
+npm install && npm run dev
 </code>
 <br>
 
